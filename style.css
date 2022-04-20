@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+}
+
+.table{
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+}
+
+tr{
+    text-align: center;
+}
+
+td{
+    height: 30px;
+}
+
+th, td{
+    border-right: 10px solid grey; 
+}
